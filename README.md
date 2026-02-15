@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/github_dev_club.png" alt="GitHub Dev Club" width="400" />
+  <img src="images/github_dev_club.png" alt="GitHub Dev Club" width="800" />
 </p>
 
 <h1 align="center">GitHub Dev Club</h1>
