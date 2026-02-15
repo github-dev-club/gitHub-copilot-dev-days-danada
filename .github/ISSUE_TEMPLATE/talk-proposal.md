@@ -6,6 +6,7 @@ labels: "Talk"
 assignees: ""
 ---
 
+- **City Chapter:** (Vancouver, Calgary, Toronto, Montreal, or "Any/Flexible")
 - **Draft Title:**
 - **Length:** (5 min lightning talk, or 10-20 min full presentation)
 - **Links:** (slides, article, notes)
@@ -27,3 +28,7 @@ Optional talk suggestions (remove this comment if you want to use one):
 - **Picture for slides:** (We like to include a picture of each speaker in our slides for the event intro)
 - **Would you like help with your presentation?** (Feedback on notes, practice run)
 - **Social media link(s):** (twitter, website, linkedin, etc.)
+
+---
+
+> 👍 **Audience:** React with 👍 on this issue to upvote this talk! Top-voted proposals get priority scheduling.
