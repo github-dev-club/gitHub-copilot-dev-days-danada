@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="images/github_dev_club.png" alt="GitHub Dev Club" width="800" />
+  <img width="1920" height="1080" alt="ghcp_dev_days_canada_banner" src="https://github.com/user-attachments/assets/36419b21-978d-40b1-bf4c-9bf91b1ff9a4" />
+
 </p>
 
-<h1 align="center">GitHub Dev Club</h1>
+<h1 align="center">GitHub Copilot Dev Days Canada</h1>
 
 <p align="center">
   <strong>A community‑driven club for builders who live in the GitHub ecosystem.</strong><br/>
@@ -11,9 +12,9 @@
 
 ---
 
-## 👋 What is GitHub Dev Club?
+## 👋 GitHub Copilot Dev Days Canada?
 
-GitHub Dev Club (GDC) is a community‑driven club for builders who live in the GitHub ecosystem and use whatever tools help them ship. Whether you're a VS Code power user, a JetBrains devotee, a Claude Code enthusiast, or a Codex developer — you belong here.
+GitHub Copilot Dev Days Canada is a community‑driven club for builders who live in the GitHub ecosystem and use whatever tools help them ship. Whether you're a VS Code power user, a JetBrains devotee, a Claude Code enthusiast, or a Codex developer — you belong here.
 
 We're a **GitHub‑centric, fully tool‑agnostic** meetup. Come as you are, code how you like.
 
